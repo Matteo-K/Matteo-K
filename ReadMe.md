@@ -1,2 +1,1 @@
-<h1> Welcome </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=Matteo-K&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo-K&layout=compact&theme=tokyonight" />
